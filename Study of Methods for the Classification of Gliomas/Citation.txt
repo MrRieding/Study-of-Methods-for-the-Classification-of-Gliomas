@@ -1,6 +1,6 @@
 If you would like to use this paper in your work, please cite the paper.
 
-Here are some appropriate citations:
+Here is an appropriate citation in biblatex:
 
 @article{SMCG,
 author = {Otcasek, Oliver},
