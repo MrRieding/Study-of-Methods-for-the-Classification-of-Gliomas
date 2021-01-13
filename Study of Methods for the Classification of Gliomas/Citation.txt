@@ -2,4 +2,8 @@ If you would like to use this paper in your work, please cite the paper.
 
 Here are some appropriate citations:
 
-Otcasek O. Study of Methods for the Classification of Gliomas. *https://github.com/MrRieding/Study-of-Methods-for-the-Classification-of-Gliomas/blob/main/Study%20of%20Methods%20for%20the%20Classification%20of%20Gliomas/Study%20of%20Methods%20for%20the%20Classification%20of%20Gliomas.pdf*, 2020.
+@article{SMCG,
+author = {Otcasek, Oliver},
+title = {Study of Methods for the Classification of Gliomas},
+year = 2020
+}
